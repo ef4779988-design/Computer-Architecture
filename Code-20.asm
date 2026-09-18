@@ -1,4 +1,4 @@
-global main
+global _main
 extern _printf
 
 section .data
