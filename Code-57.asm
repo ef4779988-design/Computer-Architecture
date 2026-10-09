@@ -1,7 +1,7 @@
 global _main
 extern _printf
 
-section .data
+section .dataA
     array dd 5, 10, 15, 20    ; Array elements
     msg db "Task 20: Comprehensive Multi-Hazard Sequence", 10
         db "Final Loop Accumulation (EAX) = %d", 10
